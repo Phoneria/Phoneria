@@ -2,7 +2,7 @@
 
 AI Engineer & Co-Founder building at the intersection of defense tech, algorithmic trading, and AI-powered automation. Currently working full-time at **ASELSAN** while running multiple startups on the side.
 
-I care about shipping things that work in the real world — not just in notebooks.
+I care about shipping things that work in the real world, not just in notebooks.
 
 ---
 
