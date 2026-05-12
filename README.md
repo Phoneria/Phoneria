@@ -65,15 +65,6 @@ I care about shipping things that work in the real world — not just in noteboo
 
 ---
 
-## 📊 GitHub Stats
-
-![Izzet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phoneria&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoneria&layout=compact&theme=dark&hide_border=true)
-
-> Most of my work lives in private repositories. Public repos here are showcases — work samples available upon request.
-
----
-
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzet-ahmet-702176219)
